@@ -1,4 +1,4 @@
-# Housing_Price_Prediction_Model
+# Housing Price Prediction Model
 
 A predictive machine learning model capable of estimating housing prices based on selected features from the California Housing dataset.
 
